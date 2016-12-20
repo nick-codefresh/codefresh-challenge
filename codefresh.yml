@@ -8,3 +8,6 @@ steps:
        set:
          - qa: waiting
          - tested: false
+         - commiter: hello world
+         - passed: true
+         - status: OK
